@@ -5,7 +5,7 @@
   "latestBuild": 77,
   "minimumSupportedBuild": 77,
   "runtimeVersion": "1.0.22",
-  "apkUrl": "https://github.com/Origineer-Consulting/21nu-downloads/releases/download/android-build-77/Nume-android-1.0.0-build-77.apk",
+  "apkUrl": "https://withtitan-nume-downloads-266176113614.s3.us-west-2.amazonaws.com/releases/android/1.0.0/build-77/Nume-android-1.0.0-build-77.apk",
   "apkSizeBytes": 200015896,
   "sha256": "7e94bb1e0047756dbd23eb6b584a22a06f8190e87a27db1ff9692e169561827c",
   "publishedAt": "2026-09-29T03:38:00.980Z"
